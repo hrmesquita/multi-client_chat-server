@@ -15,9 +15,13 @@
 
 <h4 align="center">A multi client chat server using tcp connection and thread pools.</h4>
 
-## How to use
+## Chat commands
 
 * /help - to see other commands.
+* /quit - to disconnect.
+* /changeName - to change your username.
+* /lottery - a simple chat luck game.
+* /available - to know how many users are online.
 
 ## Download
 
